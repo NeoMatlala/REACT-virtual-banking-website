@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/REACT-virtual-banking-website/static/css/main.64b24a9c.chunk.css",
+    "main.js": "/REACT-virtual-banking-website/static/js/main.43196407.chunk.js",
+    "main.js.map": "/REACT-virtual-banking-website/static/js/main.43196407.chunk.js.map",
+    "runtime-main.js": "/REACT-virtual-banking-website/static/js/runtime-main.4e256942.js",
+    "runtime-main.js.map": "/REACT-virtual-banking-website/static/js/runtime-main.4e256942.js.map",
+    "static/js/2.74d00fab.chunk.js": "/REACT-virtual-banking-website/static/js/2.74d00fab.chunk.js",
+    "static/js/2.74d00fab.chunk.js.map": "/REACT-virtual-banking-website/static/js/2.74d00fab.chunk.js.map",
+    "index.html": "/REACT-virtual-banking-website/index.html",
+    "static/css/main.64b24a9c.chunk.css.map": "/REACT-virtual-banking-website/static/css/main.64b24a9c.chunk.css.map",
+    "static/js/2.74d00fab.chunk.js.LICENSE.txt": "/REACT-virtual-banking-website/static/js/2.74d00fab.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/REACT-virtual-banking-website/static/media/svg-1.1242716c.svg",
+    "static/media/svg-2.svg": "/REACT-virtual-banking-website/static/media/svg-2.94269a52.svg",
+    "static/media/svg-3.svg": "/REACT-virtual-banking-website/static/media/svg-3.0bd0cf47.svg",
+    "static/media/video.7d1ea6a9.mp4": "/REACT-virtual-banking-website/static/media/video.7d1ea6a9.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e256942.js",
+    "static/js/2.74d00fab.chunk.js",
+    "static/css/main.64b24a9c.chunk.css",
+    "static/js/main.43196407.chunk.js"
+  ]
+}
